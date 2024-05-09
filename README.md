@@ -1,1 +1,1 @@
-# Asteroid-Belt-with-OpenGL-and-C-
+# Asteroid-Belt-with-OpenGL-and-Cplusplus
